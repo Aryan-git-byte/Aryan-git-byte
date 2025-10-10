@@ -10,4 +10,4 @@
 
 ---
 
-*Founder @XolveTech | 14 | Patna, India | "Logic + Tinkering = Innovation" | Mechatronics | Web Development "*
+*Founder @XolveTech | 12 | Patna, India | "Logic + Tinkering = Innovation" | Mechatronics | Web Development "*
